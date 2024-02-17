@@ -11,6 +11,8 @@ figma:
 
 When defining the process flow of your processes, Service Studio provides the following Tools:
 
+<< use one screenshot and update all the fields with an icon of each tool >>>
+
 | Tool      | Description    |
 |:----------|:---------------|
 | Start | Starts the process flow. Only one Start element is allowed in a process flow. |
