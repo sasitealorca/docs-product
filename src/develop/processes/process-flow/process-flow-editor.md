@@ -10,7 +10,7 @@ figma:
 # Process Flow Editor
 
 OutSystems provides you with a specific editor to define the process flow of your processes. This editor is called the **Process Flow Editor** and is divided into the following areas:
-
+[screenshot-of-process-flow-editor.png]
 * **Process Flow Toolbox**: at the left hand side of Service Studio's workspace, it provides a set of tools that can be dragged and dropped on your **Content Canvas** to define the behavior of the process.  
 The tools are elements that execute process activities, other processes or flow control tools. When a tool is dragged onto the Content Canvas, a new process activity in the process flow is created.
 
